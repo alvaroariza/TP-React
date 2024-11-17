@@ -1,6 +1,5 @@
 # TP-React
 
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 Este proyecto es una aplicación desarrollada en React que demuestra la implementación de **componentes funcionales** y el uso eficiente de **hooks** para manejar estados y ciclos de vida de los componentes.
 
 ## 🚀 Características
